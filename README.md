@@ -1,6 +1,3 @@
-# leap1000-impact-evaluation
-Reproducible Stata code and documentation for my M.A. thesis evaluating Ghana’s LEAP 1000 cash transfer program using difference-in-differences and robustness checks.
-
 # LEAP1000-Cash-Transfer-Evaluation
 
 This repository contains the empirical analysis workflow for my M.A. thesis in Applied Economics, which evaluates the impact of Ghana’s LEAP 1000 cash transfer program on household welfare outcomes.[file:70] The analysis uses baseline and endline survey data from the LEAP 1000 Impact Evaluation and implements difference-in-differences and lagged one-difference models in Stata to study food security, savings, and stress.[file:68][file:70]
